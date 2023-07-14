@@ -1,0 +1,14 @@
+# Foundry files
+/cache
+/out
+.env
+broadcast/
+
+# Hardhat files
+cache
+artifacts
+/node_modules
+coverage
+coverage.json
+typechain
+typechain-types
