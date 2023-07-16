@@ -1,0 +1,11 @@
+# Summary
+- [Home](README.md)
+# src
+  - [IERC20Like](src/Basic4626Deposit.sol/interface.IERC20Like.md)
+  - [Basic4626Deposit](src/Basic4626Deposit.sol/contract.Basic4626Deposit.md)
+  - [InvariantOne](src/InvariantOne.sol/contract.InvariantOne.md)
+  - [MintPriceNotPaid](src/NFT.sol/error.MintPriceNotPaid.md)
+  - [MaxSupply](src/NFT.sol/error.MaxSupply.md)
+  - [NonExistentTokenURI](src/NFT.sol/error.NonExistentTokenURI.md)
+  - [WithdrawTransfer](src/NFT.sol/error.WithdrawTransfer.md)
+  - [NFT](src/NFT.sol/contract.NFT.md)
